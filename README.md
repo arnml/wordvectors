@@ -1,2 +1,2 @@
 # wordvectors
-As part of my classes in USP
+As part of my classes at USP
